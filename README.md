@@ -52,9 +52,11 @@ Implemented incremental and full load strategies
 Designed star schema (Fact & Dimension tables)
 Integrated data into centralized warehouse
 Optimized storage and query performance
+
 🔹 4. Data Modeling (SSAS)
 Built tabular models for analytical querying
 Enabled fast and scalable reporting
+
 🔹 5. Reporting & Visualization
 Created interactive dashboards using Power BI
 Tracked KPIs and business metrics
